@@ -41,7 +41,14 @@
 	Policy -> Is way to deal with randomness e.g. always move away from the fire even if it takes a longer
 	to get to the goal because that way you have no chance of dying 
 	
+=======
+	Living Penalty 
+	Small Penalty for changing states which motivates the agent to solve things quicker
 --Done 9:10
+
+=======
+	Q-Learning 
+	
 
 3. Go over Russ's list
 	a. Identify any bugs that need to be solved
@@ -58,5 +65,16 @@
 
 
 4. Work on the service
+	a. Connection 
+	b. Settings
+	(not in that order) 
+
+	Settings - How are we storing the settings??
+	The service runs from a system account so we need to know what windows user this going to be doing 
+	work for. And we probably need to support multiple users as well 
+	So the question is can we reuse settings for different projects?
+	
 5. Settings - perhaps start the settings project
 6. Add-ins will need to look at the local 'DB'
+7. Fixed issue preventing word docs and excel files from opening when downloading them from ADE
+-- 1:39
