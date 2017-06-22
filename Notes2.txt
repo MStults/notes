@@ -1,0 +1,62 @@
+1. Get the current release pushed out 
+	a. Plan what is going to be in it
+-DONE 8:29
+
+2. Go over AI
+======
+	Deterministic (always goes from one state to the next, predictable)
+	Bellman Equation 
+	v	-> value at a given state
+	s 	-> state
+	s' 	-> next state
+	R(s,a) 	-> reward function 
+	v(s) 	-> action a
+	gamma 	-> discount factor
+	
+	v(s) = max(R(s,a) + gamma * v(s'))
+
+======
+	Markov Decision Process (MDP)
+	Non-Deterministic Search -> 10% chance that it will not do what you want
+	
+	Markove property
+	A stochastic process has a Markove property if the decsion only depends on his current state
+	and not a preceeding states	
+
+	Markov Decision Process Equations - is a form of the Bellman Equation 
+
+	Bellman v(s) = max(R(s,a) + gamma * v(s'))
+
+	V(s') = .8 V(s'1) + .1V(s'2) + .1V(s'3)	=> expected value 
+
+	V(s') = sum(p(s,a,s') * v(s')) 	=> expected value 
+	p(s,a,s') => probability 
+
+	Markov Decision Non-Deterministic (stochastic) Search Equation 
+	v(s) = max(R(s,a) + gamma * sum(p(s,a,s') * v(s')))
+
+=======
+	Plan vs Policy 
+	Plan -> you know every single step, always do the same thing given the state
+	Policy -> Is way to deal with randomness e.g. always move away from the fire even if it takes a longer
+	to get to the goal because that way you have no chance of dying 
+	
+--Done 9:10
+
+3. Go over Russ's list
+	a. Identify any bugs that need to be solved
+	b. Badges / FaceBook are next
+
+	Russes List
+	Level 21, 51, 56, 62 on golden automaticaly completed the bonus
+	Level 21 Right side not usable	
+	level 80 needs fixed (text)
+	Level 85 challenge cannot get bouns
+	Level 59 laser gun error
+	Penalty issue with challanges (without producing more than 500ev of bad energy)
+--Done 9:35
+
+
+4. Work on the service
+5. Settings - perhaps start the settings project
+6. Add-ins will need to look at the local 'DB'

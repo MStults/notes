@@ -1,0 +1,24 @@
+1. AI
+	The Bellman Equation 
+	Concepts
+		s - State
+		a - Action 	
+		r - reward
+		gamma - Discount Factor
+		V - value at a state
+
+	r = -1 => fail
+	r = 1  => win
+	
+	value v at state s leads to an action
+	v(s) = a
+	v(s) = max(R(s,a) + gamma*V(s'))
+	
+
+
+	Markov Decision Process
+	There is a chance that the agent will do somthing other than what os expected 
+	
+2. Reading
+	Read a lot 
+
