@@ -1,0 +1,12 @@
+Study AI
+	Q learning intuitive approach to understanding the Q Learning equation.
+
+Read Status Reports
+	Fleshed out an approach to handle the intergration with Office. NADER1 needs to operate in  
+
+Work On the Service 
+
+
+
+
+
