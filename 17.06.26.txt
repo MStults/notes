@@ -1,0 +1,24 @@
+1. Budget 
+	--DOne
+2. ASM Git
+3. AI
+	Plan of Attack
+	Deep Q learning
+	Experinace Replay
+	Action Selection Replay Policies
+
+	Study Annex 1
+	Deep Learning Neural Networks
+		The Neuron
+		The Activation Function
+		How do Neural Networks Work
+		How do they Learn
+		Gradient Desent
+		Stochastuc Gradient Desent 
+
+	Normailizing input values
+	https://www.khanacademy.org/math/statistics-probability 
+	
+
+4. Service
+5. Get Feedback from J

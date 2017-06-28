@@ -1,0 +1,23 @@
+1. AI
+	Nueral Network
+	Back Propergation (adjust the weights)
+	Gradient Desent 
+	Cost Function - minimize the cost 
+
+	-={Curse of Dimensionality}=-
+	the number of weights increase super fast we do not have time to compute them
+
+	Gardient Desent - remember from calculus?
+
+	http://neuralnetworksanddeeplearning.com/chap1.html
+	
+	
+2. ATSM PULL
+	-Levels do not have to be updated because the test is about reaching a positive value 
+	-Done
+
+3. Release Check List
+	Added a simple check list 
+
+4. FS - Short cut 
+	This will be a new FS type
