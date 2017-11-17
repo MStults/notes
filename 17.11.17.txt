@@ -1,0 +1,29 @@
+—Atomsmashem 
+	Create page for every badge. 
+
+—stock check list
+	1. Check company on the drip investing xls. Search all CCC
+	2. Check dividend history
+	3. Apply the system. The 4 parameters of quality
+
+Dividend  Parameters
+1. History
+2. Yield
+3. Growth
+4. Safety 
+
+
+History 
+	willingness to pay. 10 or more years of uninterrupted increasing dividends 
+	Drip DB 5 or more straight years of higher
+Yield
+	The amount of dividend paid in a year
+	1. Ex date - Date you must own the stock before dividends are paired
+	2. Find the pay date 
+	3. Find the period on which it pays - p
+	4. Find the latest declared dividend amount - a
+	5. Divide by the share price to get a percent 
+
+	Yearly dividend payout: A = a * 12/p
+	Share Price: s
+	Yield: Y = A/s

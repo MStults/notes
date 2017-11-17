@@ -1,0 +1,16 @@
+1. Create a badge
+	--Done
+
+2. Nail down version for DM
+	--Create two tasks for the next round of DM
+	
+3. Pursue File System Changes 
+	--Implement the interface
+
+4. AI
+	-- Action selection policies 
+		-- Exploration vs Exploitation
+		-- Do not get stuck in a local maximum 
+		-- Study Convolutional Nerual Networks
+			-- features (looking and processing features)
+			-- classification 

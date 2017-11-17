@@ -1,0 +1,8 @@
+DM
+	Display Errors 
+	Upload
+	Profile
+	Rename 
+	Delete
+		
+		Find out where the file is being uploaded 

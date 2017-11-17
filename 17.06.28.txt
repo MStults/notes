@@ -1,0 +1,27 @@
+1. Read reports
+2. AI
+	Convolutional Neural Networks
+	Convolutional Operation 
+	ReLU layer 
+	Pooling 
+	Flattings
+	Full Connection
+	
+	Softmax & Cross-Entropy
+======
+	Deep-Q Learning 
+	
+
+	(more neurons are better how -> maximize number of neurons)
+
+	https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0 
+
+
+	http://neuralnetworksanddeeplearning.com/index.html 
+
+
+3. Shell Extension
+	Work on C++ version of the shared data layer 
+
+4. ASM
+	???

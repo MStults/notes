@@ -1,0 +1,22 @@
+1. Budget
+	Done
+2. DM
+	Extension 
+	1. Sync
+	2. Display Profile
+	3. Download
+	4. Upload
+	5. Caching 
+
+	APP
+	Versioning 
+	
+3. AI
+	Q Learning - Complex Environment 
+	Temporal Differnce Learning 
+	Softmax Function - Select action
+	Experience Replay
+			     
+	
+4. ASM
+	Not seeing badages dialog commit! Needs checked
