@@ -1,0 +1,12 @@
+1. Add tasks to P32 which are
+	1. Search within folder
+	2. Version number in index
+	3. Checkout status in index
+	4. Proper icons in index
+	5. Ade Drive
+		a. Checkout in context menu
+		b. icon overlay
+
+2. Create Badges pages
+
+3. Continue stock research 
